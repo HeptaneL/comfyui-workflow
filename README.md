@@ -1,6 +1,6 @@
 # comfyui-workflow
 ## Txt2Img
-lora.json: add a lora<br>
+[lora.json](txt2img/lora.json): add a lora<br>
 refiner.json: add a refiner<br>
 refinder_lora.json: add a refiner and a lora<br>
 sdxl_turbo.json: use sdxl turbo model as checkpoint<br>
