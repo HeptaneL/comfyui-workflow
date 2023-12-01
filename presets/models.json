@@ -1,0 +1,10 @@
+{
+	"checkpoint_downloads": {
+		"blue_pencil-XL-v1.5.0.safetensors": "https://huggingface.co/bluepen5805/blue_pencil-XL/resolve/main/blue_pencil-XL-v1.5.0.safetensors",
+		"sd_xl_turbo_1.0.safetensors": "https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0.safetensors"
+	},
+	"lora_downloads": {
+		"sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+		"sd_xl_turbo_lora_rank64.safetensors": "https://huggingface.co/kataragi/SDXL-turbo-LoRA/resolve/main/sd_xl_turbo_lora_rank64.safetensors"
+    }
+}
