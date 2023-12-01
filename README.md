@@ -1,4 +1,5 @@
-# comfyui-workflow
+# comfyui-workflow Usage
+Download following json files and load in ComfyUI ![usage](resources/usage.png)<br>
 ## Txt2Img
 ### SDXL Turbo
 [use_sdxl_turbo.json](src/txt2img/use_sdxl_turbo.json) : use sdxl turbo model as checkpoint ![use sdxl turbo model](resources/use_sdxl_turbo.png)<br>
