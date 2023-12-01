@@ -11,7 +11,6 @@ Download following JSON files and load it in ComfyUI<br>
 [refiner_lora.json](src/txt2img/refinder_lora.json) <br>
 ## Img2Img
 ### add expression for role
-[add_expression.json](src/img2img/add_expression.json) <br>
-[fooocus_expression.json](src/img2img/fooocus_expression.json) <br>
+[add_expression.json](src/img2img/add_expression.json) ![expression](resources/add_expression.png) <br>
 ## Txt2Gif
 use animatediff 
